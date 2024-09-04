@@ -1,1 +1,2 @@
-print("Ejaz is busy with Salma ki balma")
+
+print("Now ejaz is free")
